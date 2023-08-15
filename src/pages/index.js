@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'/banner1.png'}
         title={'Điện lạnh Trần Lâm'}
-        subtitle={'Discover Autumn Winter 2021'}
+        subtitle={'sao ko duoc'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
